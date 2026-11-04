@@ -1,4 +1,4 @@
-#Network-Based and Machine Learning Approaches for Predicting Gene–Drug–Disease Relationships
+# NETWORK-BASED AND MACHINE LEARNING APPROACHES FOR PREDICTING GENE–DRUG–DISEASE RELATIONSHIPS
 A Review and Data-Driven Exploration of Link Prediction for Drug Repurposing
 
 Overview
